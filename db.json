@@ -2,10 +2,10 @@
   "clientes": [
     {
       "nombre": "Josue",
-      "empresa": "Codigo Con Juan",
+      "empresa": "Codigo Con Agus",
       "email": "agus.rodriguez777@gg",
       "telefono": "01160376215",
-      "notas": "asdasdsd",
+      "notas": "Esto es un test",
       "id": 3
     },
     {
@@ -13,22 +13,22 @@
       "nombre": "Miguel",
       "telefono": 319381983,
       "email": "miguel@juan.com",
-      "empresa": "Codigo Con Juan"
+      "empresa": "Codigo Con Agus"
     },
     {
       "nombre": "Agustin",
-      "empresa": "CACA",
+      "empresa": "Company2",
       "email": "agus.rodriguez777@gmail.com",
       "telefono": "01160376215",
-      "notas": "Es un cliente xd",
+      "notas": "Es un cliente",
       "id": 6
     },
     {
       "nombre": "Agustin",
-      "empresa": "Company",
+      "empresa": "Company3",
       "email": "agus.rodriguez777@gmail.com",
       "telefono": "01160376215",
-      "notas": "HOLALA",
+      "notas": "Hello",
       "id": 8
     }
   ]
